@@ -1,0 +1,109 @@
+======================
+     POKÉMON ODYSSÉE
+  Zones & Rencontres
+======================
+
+
+----------------------
+🌿 ROUTE 1 - Herbe
+----------------------
+Medhyèna         - 20%
+Étourmi          - 20%
+Ratentif         - 20%
+Budroca          - 15%
+Lupyre           - 15%
+O. Roucool       - 10%
+
+
+-------------------------
+🎣 ROUTE 1 - Pêche (Canne)
+-------------------------
+Magicarpe        - 50%
+Aquibulle        - 49%
+O. Vipélierre    - 1%
+
+
+-----------------------------
+🎣 ROUTE 1 - Pêche (Super Canne)
+-----------------------------
+Magicarpe        - 40%
+Hypotrempe       - 30%
+Aquibulle        - 29%
+O. Vipélierre    - 1%
+
+
+----------------------------
+🎣 ROUTE 1 - Pêche (Méga Canne)
+----------------------------
+Magicarpe        - 25%
+Hypotrempe       - 30%
+Aquibulle        - 20%
+Hypocéan         - 15%
+O. Vipélierre    - 10%
+
+
+----------------------
+🌊 ROUTE 1 - Surf
+----------------------
+Magicarpe        - 35%
+Hypotrempe       - 35%
+Aquibulle        - 20%
+O. Vipélierre    - 10%
+
+
+----------------------
+🌲 FORÊT
+----------------------
+Chenipotte       - 20%
+Spynette         - 20%
+Budroca          - 15%
+Étourmi          - 20%
+Pikachu          - 15%
+O. Aspicot       - 10%
+
+
+-------------------------
+🎣 THRACE - Pêche (Canne)
+-------------------------
+Magicarpe        - 50%
+Aquibulle        - 49%
+O. Vipélierre    - 1%
+
+
+-----------------------------
+🎣 THRACE - Pêche (Super Canne)
+-----------------------------
+Magicarpe        - 40%
+Aquibulle        - 29%
+Carvanha         - 30%
+O. Vipélierre    - 1%
+
+
+----------------------------
+🎣 THRACE - Pêche (Méga Canne)
+----------------------------
+Magicarpe        - 25%
+Carvanha         - 30%
+Aquibulle        - 20%
+O. Vipélierre    - 10%
+Sharpedo         - 15%
+
+
+----------------------
+🌊 THRACE - Surf
+----------------------
+Magicarpe        - 35%
+Carvanha         - 35%
+Aquibulle        - 20%
+O. Vipélierre    - 10%
+
+
+--------------------------
+🪨 GROTTES DE CAPOUE
+--------------------------
+Nosférapti       - 20%
+Nodulithe        - 20%
+Bagnardon        - 20%
+Minéclat         - 15%
+Riolu            - 15%
+O. Embrylex      - 10%
